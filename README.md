@@ -95,4 +95,5 @@ Pruebas/
 | Pruebas de la lógica (40 casos) | `Pruebas/` |
 | Guion de la defensa oral | `docs/Guion_Defensa_Oral_Candil.pdf` |
 | Logos de Tero Nocturno Games | `docs/` y raíz |
-| Informe, planilla de costos y presentación | [completar con los enlaces o agregar los archivos exportados a `docs/`] |
+| Planilla de costos y tokens (Excel) | `docs/Planilla_Costos_Tokens_Candil.xlsx` |
+| Informe y presentación | [completar con los enlaces o agregar los archivos exportados a `docs/`] |
