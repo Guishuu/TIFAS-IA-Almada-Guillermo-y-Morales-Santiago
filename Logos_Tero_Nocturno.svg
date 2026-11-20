@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 860" width="1200" height="860">
+<rect width="1200" height="860" fill="#F6F4EE"/>
+<text x="40" y="52" font-family="Inter, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F1B2B">Tero Nocturno Games: variantes de logo (propuesta base)</text>
+<g><rect x="40" y="80" width="540" height="340" rx="14" fill="#0F1B2B"/><circle cx="310" cy="235" r="105.0" fill="#F2A541" opacity="0.10"/>
+<circle cx="322.0" cy="244.0" r="45.0" fill="#F2A541" opacity="0.18"/>
+<path d="M241.0 241.0 Q280.0 196.0 331.0 202.0 Q361.0 208.0 355.0 244.0 Q340.0 274.0 298.0 271.0 Q265.0 265.0 241.0 241.0Z" fill="#E8E4D9"/>
+<polygon points="244.0,238.0 211.0,229.0 238.0,253.0" fill="#E8E4D9"/>
+<path d="M328.0 205.0 L340.0 175.0 L361.0 181.0 L355.0 223.0Z" fill="#E8E4D9"/>
+<circle cx="352.0" cy="172.0" r="16.5" fill="#E8E4D9"/>
+<path d="M343.0 160.0 Q322.0 142.0 301.0 148.0" fill="none" stroke="#E8E4D9" stroke-width="3.6" stroke-linecap="round"/>
+<polygon points="365.5,167.5 391.0,175.0 365.5,179.5" fill="#F2A541"/>
+<circle cx="356.5" cy="169.0" r="3.3" fill="#0F1B2B"/>
+<line x1="298.0" y1="268.0" x2="298.0" y2="310.0" stroke="#E8E4D9" stroke-width="3.9" stroke-linecap="round"/>
+<line x1="298.0" y1="310.0" x2="311.5" y2="310.0" stroke="#E8E4D9" stroke-width="3.9" stroke-linecap="round"/>
+<line x1="319.0" y1="268.0" x2="319.0" y2="310.0" stroke="#E8E4D9" stroke-width="3.9" stroke-linecap="round"/>
+<line x1="319.0" y1="310.0" x2="332.5" y2="310.0" stroke="#E8E4D9" stroke-width="3.9" stroke-linecap="round"/>
+<circle cx="322.0" cy="241.0" r="13.5" fill="#F2A541"/>
+<circle cx="322.0" cy="241.0" r="6.0" fill="#FFE2A8"/><text x="60" y="402" font-family="Inter, Helvetica, Arial, sans-serif" font-size="14" fill="#6B7480">Isotipo: solo el símbolo</text></g>
+<g><rect x="620" y="80" width="540" height="340" rx="14" fill="#0F1B2B"/><text x="890" y="230" text-anchor="middle" font-family="Cinzel, Georgia, 'Times New Roman', serif" font-size="46" letter-spacing="5" fill="#E8E4D9">TERO NOCTURNO</text><text x="890" y="272" text-anchor="middle" font-family="Inter, Helvetica, Arial, sans-serif" font-size="20" letter-spacing="14" fill="#F2A541">GAMES</text><text x="640" y="402" font-family="Inter, Helvetica, Arial, sans-serif" font-size="14" fill="#6B7480">Logotipo: solo el nombre</text></g>
+<g><rect x="40" y="460" width="540" height="340" rx="14" fill="#0F1B2B"/><circle cx="150" cy="615" r="70.0" fill="#F2A541" opacity="0.10"/>
+<circle cx="158.0" cy="621.0" r="30.0" fill="#F2A541" opacity="0.18"/>
+<path d="M104.0 619.0 Q130.0 589.0 164.0 593.0 Q184.0 597.0 180.0 621.0 Q170.0 641.0 142.0 639.0 Q120.0 635.0 104.0 619.0Z" fill="#E8E4D9"/>
+<polygon points="106.0,617.0 84.0,611.0 102.0,627.0" fill="#E8E4D9"/>
+<path d="M162.0 595.0 L170.0 575.0 L184.0 579.0 L180.0 607.0Z" fill="#E8E4D9"/>
+<circle cx="178.0" cy="573.0" r="11.0" fill="#E8E4D9"/>
+<path d="M172.0 565.0 Q158.0 553.0 144.0 557.0" fill="none" stroke="#E8E4D9" stroke-width="2.4" stroke-linecap="round"/>
+<polygon points="187.0,570.0 204.0,575.0 187.0,578.0" fill="#F2A541"/>
+<circle cx="181.0" cy="571.0" r="2.2" fill="#0F1B2B"/>
+<line x1="142.0" y1="637.0" x2="142.0" y2="665.0" stroke="#E8E4D9" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="142.0" y1="665.0" x2="151.0" y2="665.0" stroke="#E8E4D9" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="156.0" y1="637.0" x2="156.0" y2="665.0" stroke="#E8E4D9" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="156.0" y1="665.0" x2="165.0" y2="665.0" stroke="#E8E4D9" stroke-width="2.6" stroke-linecap="round"/>
+<circle cx="158.0" cy="619.0" r="9.0" fill="#F2A541"/>
+<circle cx="158.0" cy="619.0" r="4.0" fill="#FFE2A8"/><text x="250" y="612" font-family="Cinzel, Georgia, 'Times New Roman', serif" font-size="27" letter-spacing="3" fill="#E8E4D9">TERO NOCTURNO</text><text x="252" y="646" font-family="Inter, Helvetica, Arial, sans-serif" font-size="16" letter-spacing="11" fill="#F2A541">GAMES</text><text x="60" y="782" font-family="Inter, Helvetica, Arial, sans-serif" font-size="14" fill="#6B7480">Imagotipo: símbolo y nombre, separables</text></g>
+<g><rect x="620" y="460" width="540" height="340" rx="14" fill="#0F1B2B"/><circle cx="890" cy="615" r="132" fill="none" stroke="#F2A541" stroke-width="3"/><circle cx="890" cy="615" r="124" fill="none" stroke="#E8E4D9" stroke-width="1" opacity="0.45"/><circle cx="890" cy="589" r="56.0" fill="#F2A541" opacity="0.10"/>
+<circle cx="896.4" cy="593.8" r="24.0" fill="#F2A541" opacity="0.18"/>
+<path d="M853.2 592.2 Q874.0 568.2 901.2 571.4 Q917.2 574.6 914.0 593.8 Q906.0 609.8 883.6 608.2 Q866.0 605.0 853.2 592.2Z" fill="#E8E4D9"/>
+<polygon points="854.8,590.6 837.2,585.8 851.6,598.6" fill="#E8E4D9"/>
+<path d="M899.6 573.0 L906.0 557.0 L917.2 560.2 L914.0 582.6Z" fill="#E8E4D9"/>
+<circle cx="912.4" cy="555.4" r="8.8" fill="#E8E4D9"/>
+<path d="M907.6 549.0 Q896.4 539.4 885.2 542.6" fill="none" stroke="#E8E4D9" stroke-width="1.9" stroke-linecap="round"/>
+<polygon points="919.6,553.0 933.2,557.0 919.6,559.4" fill="#F2A541"/>
+<circle cx="914.8" cy="553.8" r="1.8" fill="#0F1B2B"/>
+<line x1="883.6" y1="606.6" x2="883.6" y2="629.0" stroke="#E8E4D9" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="883.6" y1="629.0" x2="890.8" y2="629.0" stroke="#E8E4D9" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="894.8" y1="606.6" x2="894.8" y2="629.0" stroke="#E8E4D9" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="894.8" y1="629.0" x2="902.0" y2="629.0" stroke="#E8E4D9" stroke-width="2.1" stroke-linecap="round"/>
+<circle cx="896.4" cy="592.2" r="7.2" fill="#F2A541"/>
+<circle cx="896.4" cy="592.2" r="3.2" fill="#FFE2A8"/><text x="890" y="687" text-anchor="middle" font-family="Cinzel, Georgia, 'Times New Roman', serif" font-size="17" letter-spacing="3" fill="#E8E4D9">TERO NOCTURNO</text><text x="890" y="709" text-anchor="middle" font-family="Inter, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="8" fill="#F2A541">GAMES</text><text x="640" y="782" font-family="Inter, Helvetica, Arial, sans-serif" font-size="14" fill="#6B7480">Isologo: símbolo y nombre en una sola pieza</text></g>
+<text x="40" y="838" font-family="Inter, Helvetica, Arial, sans-serif" font-size="14" fill="#6B7480">Paleta: azul noche #0F1B2B · ámbar #F2A541 · blanco niebla #E8E4D9 · gris ceniza #6B7480. Tipografías sugeridas: Cinzel e Inter.</text>
+</svg>

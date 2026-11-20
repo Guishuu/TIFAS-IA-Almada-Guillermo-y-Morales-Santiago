@@ -1,0 +1,276 @@
+{
+ "ejemplos": [
+  {
+   "intencion": "saludo",
+   "texto": "hola"
+  },
+  {
+   "intencion": "saludo",
+   "texto": "buenas"
+  },
+  {
+   "intencion": "saludo",
+   "texto": "buen dia"
+  },
+  {
+   "intencion": "saludo",
+   "texto": "buenas tardes"
+  },
+  {
+   "intencion": "saludo",
+   "texto": "hola candil"
+  },
+  {
+   "intencion": "saludo",
+   "texto": "gracias"
+  },
+  {
+   "intencion": "saludo",
+   "texto": "muchas gracias chau"
+  },
+  {
+   "intencion": "saludo",
+   "texto": "hola que tal"
+  },
+  {
+   "intencion": "jugabilidad",
+   "texto": "como derroto al guardian de la niebla"
+  },
+  {
+   "intencion": "jugabilidad",
+   "texto": "no puedo pasar al jefe"
+  },
+  {
+   "intencion": "jugabilidad",
+   "texto": "que arma me conviene usar"
+  },
+  {
+   "intencion": "jugabilidad",
+   "texto": "para que sirve la ceniza"
+  },
+  {
+   "intencion": "jugabilidad",
+   "texto": "cuantas reliquias puedo llevar"
+  },
+  {
+   "intencion": "jugabilidad",
+   "texto": "como esquivo los ataques"
+  },
+  {
+   "intencion": "jugabilidad",
+   "texto": "que hace el farol"
+  },
+  {
+   "intencion": "jugabilidad",
+   "texto": "como cambio la dificultad"
+  },
+  {
+   "intencion": "jugabilidad",
+   "texto": "que pierdo al morir"
+  },
+  {
+   "intencion": "jugabilidad",
+   "texto": "como guardo la partida en el faro"
+  },
+  {
+   "intencion": "jugabilidad",
+   "texto": "donde consigo reliquias y mejoras"
+  },
+  {
+   "intencion": "jugabilidad",
+   "texto": "con que tecla ataco"
+  },
+  {
+   "intencion": "tecnico",
+   "texto": "el juego va lento"
+  },
+  {
+   "intencion": "tecnico",
+   "texto": "tengo bajos fps"
+  },
+  {
+   "intencion": "tecnico",
+   "texto": "que requisitos necesita mi pc"
+  },
+  {
+   "intencion": "tecnico",
+   "texto": "el juego no abre"
+  },
+  {
+   "intencion": "tecnico",
+   "texto": "pantalla negra al iniciar"
+  },
+  {
+   "intencion": "tecnico",
+   "texto": "no me detecta el mando"
+  },
+  {
+   "intencion": "tecnico",
+   "texto": "como cambio el idioma"
+  },
+  {
+   "intencion": "tecnico",
+   "texto": "se puede agrandar el texto"
+  },
+  {
+   "intencion": "tecnico",
+   "texto": "funciona en windows"
+  },
+  {
+   "intencion": "tecnico",
+   "texto": "como bajo la calidad grafica"
+  },
+  {
+   "intencion": "tecnico",
+   "texto": "tiene opciones de accesibilidad"
+  },
+  {
+   "intencion": "cuenta_compras",
+   "texto": "cuanto cuesta el juego"
+  },
+  {
+   "intencion": "cuenta_compras",
+   "texto": "quiero un reembolso"
+  },
+  {
+   "intencion": "cuenta_compras",
+   "texto": "tiene microtransacciones"
+  },
+  {
+   "intencion": "cuenta_compras",
+   "texto": "necesito crear una cuenta"
+  },
+  {
+   "intencion": "cuenta_compras",
+   "texto": "mi partida no aparece en la nube"
+  },
+  {
+   "intencion": "cuenta_compras",
+   "texto": "que datos mios guardan"
+  },
+  {
+   "intencion": "cuenta_compras",
+   "texto": "hay contenido adicional de pago"
+  },
+  {
+   "intencion": "cuenta_compras",
+   "texto": "me devuelven la plata de la compra"
+  },
+  {
+   "intencion": "cuenta_compras",
+   "texto": "sos una ia o una persona"
+  },
+  {
+   "intencion": "reporte_bug",
+   "texto": "quiero reportar un bug"
+  },
+  {
+   "intencion": "reporte_bug",
+   "texto": "encontre un error"
+  },
+  {
+   "intencion": "reporte_bug",
+   "texto": "quiero reportar un error del juego"
+  },
+  {
+   "intencion": "reporte_bug",
+   "texto": "me quede trabado en una pared"
+  },
+  {
+   "intencion": "reporte_bug",
+   "texto": "el personaje atraveso el piso"
+  },
+  {
+   "intencion": "reporte_bug",
+   "texto": "hay un bug en la zona del muelle"
+  },
+  {
+   "intencion": "reporte_bug",
+   "texto": "el jefe desaparecio y no puedo avanzar es un bug"
+  },
+  {
+   "intencion": "reporte_bug",
+   "texto": "se me borro el progreso reportar"
+  },
+  {
+   "intencion": "fuera_de_alcance",
+   "texto": "quien gano el mundial"
+  },
+  {
+   "intencion": "fuera_de_alcance",
+   "texto": "haceme la tarea de matematica"
+  },
+  {
+   "intencion": "fuera_de_alcance",
+   "texto": "contame un chiste"
+  },
+  {
+   "intencion": "fuera_de_alcance",
+   "texto": "cual es la capital de francia"
+  },
+  {
+   "intencion": "fuera_de_alcance",
+   "texto": "que opinas de la politica"
+  },
+  {
+   "intencion": "fuera_de_alcance",
+   "texto": "recomendame una pelicula"
+  },
+  {
+   "intencion": "fuera_de_alcance",
+   "texto": "como hackeo el juego"
+  },
+  {
+   "intencion": "fuera_de_alcance",
+   "texto": "dame trucos de otro juego"
+  },
+  {
+   "intencion": "fuera_de_alcance",
+   "texto": "escribime un poema"
+  },
+  {
+   "intencion": "fuera_de_alcance",
+   "texto": "cuanto es dos mas dos"
+  },
+  {
+   "intencion": "saludo",
+   "texto": "gracias"
+  },
+  {
+   "intencion": "saludo",
+   "texto": "muchas gracias"
+  },
+  {
+   "intencion": "saludo",
+   "texto": "chau"
+  },
+  {
+   "intencion": "saludo",
+   "texto": "hola buenas"
+  },
+  {
+   "intencion": "saludo",
+   "texto": "genial gracias"
+  },
+  {
+   "intencion": "saludo",
+   "texto": "hola"
+  },
+  {
+   "intencion": "saludo",
+   "texto": "buenas noches"
+  },
+  {
+   "intencion": "saludo",
+   "texto": "ok gracias"
+  },
+  {
+   "intencion": "saludo",
+   "texto": "perfecto gracias"
+  },
+  {
+   "intencion": "saludo",
+   "texto": "hasta luego"
+  }
+ ]
+}

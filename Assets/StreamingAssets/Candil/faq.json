@@ -1,0 +1,90 @@
+{
+ "faqs": [
+  {
+   "id": "FAQ01",
+   "variantes": [
+    "como guardo la partida",
+    "como se guarda el juego",
+    "donde guardo mi progreso",
+    "se puede guardar manualmente"
+   ],
+   "respuesta": "El juego guarda solo cada vez que encendés un Faro. No hay guardado manual: si salís, volvés al último Faro encendido."
+  },
+  {
+   "id": "FAQ02",
+   "variantes": [
+    "cuales son los requisitos minimos",
+    "que pc necesito para jugar",
+    "requisitos del juego",
+    "corre en mi pc"
+   ],
+   "respuesta": "Mínimos: Windows 10 de 64 bits, Core i3, 4 GB de RAM, Intel HD 620 y 2 GB de disco. Recomendados: Core i5, 8 GB de RAM y GTX 1050."
+  },
+  {
+   "id": "FAQ03",
+   "variantes": [
+    "que pierdo al morir",
+    "que pasa cuando muero",
+    "pierdo todo si muero"
+   ],
+   "respuesta": "Al morir perdés las reliquias de esa expedición, pero conservás la Ceniza, que se gasta en mejoras permanentes en el Taller del Farero."
+  },
+  {
+   "id": "FAQ04",
+   "variantes": [
+    "como pido un reembolso",
+    "quiero devolver el juego",
+    "me devuelven la plata"
+   ],
+   "respuesta": "Los reembolsos los gestiona la tienda donde compraste el juego, según su política. El estudio no puede reembolsar compras directamente."
+  },
+  {
+   "id": "FAQ05",
+   "variantes": [
+    "funciona con mando",
+    "puedo jugar con joystick",
+    "es compatible con control de playstation",
+    "sirve el mando de xbox"
+   ],
+   "respuesta": "Sí: funciona con mandos de Xbox, PlayStation (DualShock 4 y DualSense) y genéricos XInput. Conectalo antes de abrir el juego."
+  },
+  {
+   "id": "FAQ06",
+   "variantes": [
+    "en que idiomas esta el juego",
+    "esta en español",
+    "tiene subtitulos"
+   ],
+   "respuesta": "El juego está en español e inglés, con textos y subtítulos en ambos idiomas."
+  },
+  {
+   "id": "FAQ07",
+   "variantes": [
+    "tiene microtransacciones",
+    "hay que pagar algo mas",
+    "tiene compras dentro del juego"
+   ],
+   "respuesta": "No. Es un juego de pago único, sin microtransacciones, cajas de botín ni publicidad. Solo está previsto un paquete cosmético opcional."
+  },
+  {
+   "id": "FAQ08",
+   "variantes": [
+    "sos una persona",
+    "sos un bot",
+    "estoy hablando con una ia",
+    "quien sos"
+   ],
+   "respuesta": "Soy Candil, un asistente de inteligencia artificial del estudio. Respondo con la documentación oficial del juego y puedo equivocarme. Si no puedo ayudarte, derivo tu consulta a una persona."
+  },
+  {
+   "id": "FAQ09",
+   "variantes": [
+    "cuanto cuesta el juego",
+    "cuanto sale el juego",
+    "que precio tiene",
+    "cuanto vale"
+   ],
+   "respuesta": "Cenizas del Faro cuesta USD 12,99 en Steam e itch.io; el precio final en tu moneda lo define la tienda. Es un pago único."
+  }
+ ]
+}

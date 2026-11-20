@@ -1,0 +1,18 @@
+[
+ {"q":"gracias!","ruta":"SALUDO"},
+ {"q":"buenas noches","ruta":"SALUDO"},
+ {"q":"cuánto sale?","ruta":"FAQ","doc":"FAQ09"},
+ {"q":"¿pierdo todo si muero?","ruta":"FAQ","doc":"FAQ03"},
+ {"q":"¿el juego está en inglés?","ruta":"RAG_LLM","doc":"KB14"},
+ {"q":"¿cómo esquivo la embestida del jefe?","ruta":"RAG_LLM","doc":"KB06"},
+ {"q":"no me reconoce el joystick de play","ruta":"RAG_LLM","doc":"KB11"},
+ {"q":"¿dónde compro mejoras permanentes?","ruta":"RAG_LLM","doc":"KB03"},
+ {"q":"¿puedo cambiar las teclas?","ruta":"RAG_LLM","doc":"KB01"},
+ {"q":"¿guardan mis datos personales?","ruta":"RAG_LLM","doc":"KB16"},
+ {"q":"se me cuelga al abrir","ruta":"RAG_LLM","doc":"KB10"},
+ {"q":"el personaje se cayó del mapa, es un bug","ruta":"TICKET_BUG"},
+ {"q":"recomendame una serie","ruta":"ESCALADO"},
+ {"q":"¿cuándo sale la secuela?","ruta":"ESCALADO"},
+ {"q":"¿tiene modo cooperativo?","ruta":"ESCALADO"},
+ {"q":"resolveme esta ecuación","ruta":"ESCALADO"}
+]

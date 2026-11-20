@@ -1,0 +1,100 @@
+{
+ "documentos": [
+  {
+   "id": "KB01",
+   "titulo": "Controles básicos",
+   "categoria": "jugabilidad",
+   "texto": "En teclado te movés con WASD, atacás con clic izquierdo, esquivás con la barra espaciadora y usás la reliquia activa con la tecla E. El farol se enciende o apaga con la tecla F. Todos los controles se pueden reasignar en Opciones > Controles."
+  },
+  {
+   "id": "KB02",
+   "titulo": "Faros y guardado de partida",
+   "categoria": "jugabilidad",
+   "texto": "El juego guarda automáticamente cada vez que encendés un Faro. Los Faros funcionan como puntos de control: al encender uno se guarda tu progreso y recuperás toda la vida. No existe guardado manual. Si cerrás el juego en medio de una zona, volvés al último Faro encendido."
+  },
+  {
+   "id": "KB03",
+   "titulo": "Muerte y progreso permanente",
+   "categoria": "jugabilidad",
+   "texto": "Al morir perdés las reliquias de la expedición actual, pero conservás la Ceniza recolectada. La Ceniza es la moneda permanente y se gasta en el Taller del Farero para comprar mejoras que duran para siempre, como más vida máxima o más carga del farol."
+  },
+  {
+   "id": "KB04",
+   "titulo": "Armas disponibles",
+   "categoria": "jugabilidad",
+   "texto": "Hay tres armas iniciales. El Arpón tiene alcance medio y daño alto pero es lento. La Ballesta ataca a distancia con daño bajo y recarga rápida. El Farol de Hierro es un arma cuerpo a cuerpo rápida que además ilumina. Se elige el arma al comenzar cada expedición en el muelle."
+  },
+  {
+   "id": "KB05",
+   "titulo": "Reliquias",
+   "categoria": "jugabilidad",
+   "texto": "Las reliquias son objetos que dan habilidades durante una expedición. Podés llevar hasta cuatro reliquias pasivas y una activa. Se consiguen en cofres, al derrotar jefes o comprándolas al Mercader de la Marea con sal. Las reliquias se pierden al morir."
+  },
+  {
+   "id": "KB06",
+   "titulo": "Jefe: el Guardián de la Niebla",
+   "categoria": "jugabilidad",
+   "texto": "El Guardián de la Niebla es el jefe de la primera zona. Es invulnerable mientras la niebla lo cubre: tenés que encender los tres braseros de la sala con el farol para disipar la niebla y poder dañarlo. Esquivá su embestida hacia los costados, nunca hacia atrás. Se recomienda la Ballesta para la segunda fase."
+  },
+  {
+   "id": "KB07",
+   "titulo": "Niveles de dificultad",
+   "categoria": "jugabilidad",
+   "texto": "Existen tres niveles de dificultad: Brisa (los enemigos hacen 30% menos de daño, pensado para disfrutar la historia), Marea (la experiencia estándar) y Tormenta (los enemigos hacen 50% más de daño y los Faros no curan). La dificultad se puede cambiar en el muelle entre expediciones, nunca durante una."
+  },
+  {
+   "id": "KB08",
+   "titulo": "Requisitos del sistema",
+   "categoria": "tecnico",
+   "texto": "Requisitos mínimos: Windows 10 de 64 bits, procesador Intel Core i3 o equivalente, 4 GB de RAM, gráficos integrados Intel HD 620 y 2 GB de espacio en disco. Requisitos recomendados: procesador Intel Core i5, 8 GB de RAM y placa de video GTX 1050 o equivalente. El juego está disponible solo para PC con Windows."
+  },
+  {
+   "id": "KB09",
+   "titulo": "Problemas de rendimiento y bajos FPS",
+   "categoria": "tecnico",
+   "texto": "Si el juego va lento o tiene bajos FPS: bajá la calidad de iluminación en Opciones > Gráficos, desactivá la niebla volumétrica, activá la sincronización vertical y cerrá otros programas. También conviene actualizar los controladores de la placa de video."
+  },
+  {
+   "id": "KB10",
+   "titulo": "El juego no inicia o se cierra solo",
+   "categoria": "tecnico",
+   "texto": "Si el juego no abre, se cierra solo o muestra pantalla negra: verificá la integridad de los archivos desde la tienda (en Steam: Propiedades > Archivos instalados > Verificar integridad), actualizá los controladores de video y ejecutá el juego como administrador. Si el problema sigue, reportá el error a soporte adjuntando el archivo Player.log."
+  },
+  {
+   "id": "KB11",
+   "titulo": "Mandos compatibles",
+   "categoria": "tecnico",
+   "texto": "El juego es compatible con mandos de Xbox, PlayStation (DualShock 4 y DualSense) y mandos genéricos XInput. El mando se detecta automáticamente al conectarlo. Si no responde, conectalo antes de abrir el juego y revisá Opciones > Controles > Dispositivo."
+  },
+  {
+   "id": "KB12",
+   "titulo": "Precio, contenido adicional y reembolsos",
+   "categoria": "cuenta_compras",
+   "texto": "Cenizas del Faro cuesta USD 12,99 en Steam e itch.io (el precio en tu moneda lo define la tienda). Es un juego premium de pago único: no tiene microtransacciones, cajas de botín ni publicidad. El único contenido adicional previsto es un paquete cosmético opcional de USD 3,99. Los reembolsos los gestiona la tienda donde lo compraste según su propia política; el estudio no puede reembolsar compras directamente."
+  },
+  {
+   "id": "KB13",
+   "titulo": "Guardado en la nube y cuenta",
+   "categoria": "cuenta_compras",
+   "texto": "El juego no requiere crear una cuenta propia. En Steam la partida se sincroniza con el guardado en la nube de la plataforma. Si tu progreso no aparece en otra PC, verificá que la sincronización en la nube esté activada en las propiedades del juego. En itch.io el guardado es solo local."
+  },
+  {
+   "id": "KB14",
+   "titulo": "Idiomas y accesibilidad",
+   "categoria": "tecnico",
+   "texto": "El juego está disponible en español e inglés, con textos y subtítulos en ambos idiomas. Las opciones de accesibilidad incluyen tamaño de texto ajustable, modo de alto contraste, reducción del temblor de cámara y reasignación completa de controles."
+  },
+  {
+   "id": "KB15",
+   "titulo": "Cómo reportar un error",
+   "categoria": "tecnico",
+   "texto": "Para reportar un error o bug escribile a Candil 'quiero reportar un bug' y describí qué pasó, en qué zona y qué estabas haciendo. Candil registra un ticket para el equipo de QA. También podés escribir al correo de soporte del estudio adjuntando el archivo Player.log."
+  },
+  {
+   "id": "KB16",
+   "titulo": "Qué es Candil y privacidad",
+   "categoria": "cuenta_compras",
+   "texto": "Candil es un asistente de inteligencia artificial, no una persona. Responde usando la documentación oficial del juego y puede equivocarse. No pide ni necesita datos personales: no escribas tu nombre, correo ni datos de pago en el chat. Las consultas se guardan de forma anónima para mejorar el soporte. Si Candil no puede ayudarte, deriva la consulta a una persona del equipo."
+  }
+ ]
+}
