@@ -3,7 +3,7 @@
 Producto de IA del estudio ficticio **Tero Nocturno Games** (TIFAS – Inteligencia Artificial, UCP).
 
 **Integrantes:** Almada Guillermo Benjamín · Morales Santiago
-Chatbot de soporte dentro del juego, hecho en Unity (C#), sin paquetes externos.
+Chatbot de soporte con agente dentro del juego, hecho en Unity (C#), sin paquetes externos.
 
 > **Estado:** los scripts compilan y se ejecutaron en Unity. La lógica de decisión también se probó con una
 > réplica en Python (`Pruebas/replica.py`). Falta medir las configuraciones A y B con Ollama encendido.
